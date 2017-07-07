@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1499439623 source:/home/max/OpenGL/mbEngineFirst/src/main.cpp
+	"../include/mbWindow_sdl.h"
+
+1499439604 /home/max/OpenGL/mbEngineFirst/include/mbWindow_sdl.h
+	<GL/glew.h>
+	<SDL2/SDL.h>
+	<string>
+
+1499437719 source:/home/max/OpenGL/mbEngineFirst/src/mbShader_sdl.cpp
+	"../include/mbShader_sdl.h"
+	<iostream>
+	<fstream>
+
+1499351046 /home/max/OpenGL/mbEngineFirst/include/mbShader_sdl.h
+	<string>
+	<GL/glew.h>
+
+1499437719 source:/home/max/OpenGL/mbEngineFirst/src/mbWindow_sdl.cpp
+	"../include/mbWindow_sdl.h"
+	<iostream>
+
