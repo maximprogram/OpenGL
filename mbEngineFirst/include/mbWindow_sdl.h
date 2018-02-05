@@ -2,7 +2,7 @@
 #define MBWINDOW_SDL_H
 
 /*==========================================
-* Developer: MaxBogdan
+* Developer: Maks
 * GitHub: https://github.com/maximprogram
 ============================================*/
 
