@@ -2,7 +2,7 @@
 #define MBWINDOW_SDL_H
 
 /*==========================================
-* Developer: Maks
+* Developer: Max
 * GitHub: https://github.com/maxcccp
 ============================================*/
 
