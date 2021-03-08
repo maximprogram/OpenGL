@@ -1,12 +1,6 @@
 #include "../include/mbWindow_sdl.h"
 
-/*==========================================
-* Developer: MaxBogdan
-* GitHub: https://github.com/maximprogram
-============================================*/
 
-
-// MAIN //
 int main()
 {
     // Create Window //
