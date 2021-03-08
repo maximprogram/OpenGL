@@ -2,8 +2,8 @@
 #define MBSHADER_SDL_H
 
 /*==========================================
-* Developer: MaxBogdan
-* GitHub: https://github.com/maximprogram
+* Developer: Max
+* GitHub: https://github.com/maxcccp
 ============================================*/
 
 #include <string>
