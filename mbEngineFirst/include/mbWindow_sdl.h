@@ -3,7 +3,7 @@
 
 /*==========================================
 * Developer: Maks
-* GitHub: https://github.com/maximprogram
+* GitHub: https://github.com/maxcccp
 ============================================*/
 
 
